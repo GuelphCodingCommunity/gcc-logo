@@ -3,6 +3,10 @@ gcc-logo
 
 The official logo of the Guelph Coding Community.
 
+The font used in this logo is [Fira Code][fira-fonts]
+
+[fira-fonts]: https://github.com/mozilla/Fira
+
 Variants
 --------
 
